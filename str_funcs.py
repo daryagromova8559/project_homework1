@@ -1,4 +1,8 @@
 def upper_word():
-    """комментарий"""
+    """заглавные"""
     return word.upper()
 
+
+def title_word():
+    """первые заглавные"""
+    return word.title()
